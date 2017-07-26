@@ -1,0 +1,15 @@
+
+.jumbotron {
+  background-image: url("../img/leaves.jpg");
+  background-size:  cover;
+}
+
+.jumbotron h1 {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron p {
+  color: white;
+}
+

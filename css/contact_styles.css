@@ -1,0 +1,64 @@
+
+body {
+    background-color: #344038;
+    background-image: url(../img/leaves_bg.jpg);
+    background-repeat: no-repeat;
+    color: #062f19;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 75px 0;
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.contact {
+    margin-top: 65px;
+    margin-bottom: 55px;
+}
+
+.location {
+    font-weight: bold;
+}
+
+.contact-btn {
+    border: 2px solid #466d55;
+    color: #062f19;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.contact-btn:hover {
+    background-color:#062f19;
+    color:#dddbbe;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+/*Typography*/
+
+/*colors
+
+#062f19	(6,47,25)
+#1c4b30	(28,75,48)
+#466d55	(70,109,85)
+#344038	(52,64,56)
+#dddbbe	(221,219,190)
+
+*/
